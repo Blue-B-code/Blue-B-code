@@ -19,6 +19,19 @@ I'm an active open-source contributor to **[OpenIMIS](https://openimis.org)**, t
 
 ---
 
+## 💼 Professional experience — verified contributions
+
+I currently work as a full-stack developer in Cameroon on proprietary products (private GitLab repositories). The following figures are directly verifiable from the Git history and merge requests I authored:
+
+| Product | Scope | Verified contributions (author: me) |
+| --- | --- | --- |
+| **MI Platform** — mobile invoicing & payment platform (Symfony + React/Vite/Inertia, Docker, Jenkins) | 2026-04 → now | **45 merge requests** (33 merged) · **16 commits** — Vite/Inertia migration (login, reset-password, register-prospect, layouts, DataGrid, Searcher), reusable query-service architecture, PHPStan/PHPCS security hardening, invoice business logic, E2E & unit tests. |
+| **FlowNote** — AI document platform (FastAPI, arq, S3, React) | 2026-08 → now | **4 merge requests** (2 merged) · **8 commits** — RAG backend migration: ingestion & reading pipelines on the `arq` queue, S3 handling, HMAC-signed callbacks, spec & task kit. |
+
+> Both repositories are **private**, so these links require access — the MR lists are the proof: [MI merge requests](https://gitlab.com/maxime.ngoe/OrangeMoney/-/merge_requests?author_username=princesandjong777) · [FlowNote merge requests](https://gitlab.com/maxime.ngoe/flownote/-/merge_requests?author_username=princesandjong777)
+
+---
+
 ## 🚀 Highlighted projects
 
 | Project | What it is |
