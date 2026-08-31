@@ -37,7 +37,8 @@ I currently work as a full-stack developer in Cameroon on proprietary products (
 | Project | What it is |
 | --- | --- |
 | [**invoice-detector**](https://github.com/Blue-B-code/invoice-detector) | Duplicate-invoice detection over the WhatsApp Business API — FastAPI, SQLAlchemy, pdfplumber, unit-tested and Dockerized. |
-| [**api-laravel**](https://github.com/Blue-B-code/api-laravel) | Full-stack blog: Laravel 12 API (Sanctum + policies) with a React 19 + TypeScript + Inertia frontend. Pest tests + GitHub Actions CI. |
+| [**api-laravel**](https://github.com/Blue-B-code/api-laravel) | Full-stack blog — Laravel 12 API (Sanctum + policies) with a React/Vite frontend ([vite-project](https://github.com/Blue-B-code/vite-project)). Pest tests + GitHub Actions CI. |
+| [**rag-docs-chat**](https://github.com/Blue-B-code/rag-docs-chat) | Chat with your documents — a RAG knowledge-base app (FastAPI + Qdrant + LLM) with a React UI, 12 tests and Docker. |
 | [**SmartOps-AI**](https://github.com/Blue-B-code/SmartOps-AI) | AI-native operational assistant — Next.js + FastAPI orchestrator with tool-backed recommendations and a structured UI contract. |
 | [**sandjs**](https://github.com/Blue-B-code/sandjs) | A minimal React-like rendering engine built from scratch — JSX, virtual DOM, diffing & hooks in vanilla JavaScript. |
 | [**chatappflutter**](https://github.com/Blue-B-code/chatappflutter) | Cross-platform chat app in Flutter with Firebase Auth, local persistence and offline-first sync. |
