@@ -10,8 +10,7 @@ I build and maintain real-world software — from REST APIs and database design 
 
 I'm an active open-source contributor to **[OpenIMIS](https://openimis.org)**, the open-source health-financing & social-protection platform:
 
-- **201 pull requests** submitted across the organization — **129 merged** — spanning **32 modules** of the platform
-- **Front + back across the stack**: React/JavaScript frontend modules (core, claim, insuree, ledger, invoice, policy, contribution) and Python/Django GraphQL backends (be-invoice, be-core, be-insuree, be-contract, be-policy, be-individual, be-social_protection), plus Android apps (Java) and the Docker distribution (`openimis-dist_dkr`)
+- **201 pull requests** submitted across the organization — **129 merged** — spanning **32 modules**: React frontend modules (`openimis-fe-*`) and Python/Django GraphQL backends (`openimis-be-*`), covering core, claim, insuree, ledger, invoice, policy, contribution, contract, etc., plus Android apps (Java) and the Docker distribution (`openimis-dist_dkr`)
 - Created the **Ledger** frontend module from scratch; contributed a **polygamous-family** feature on the Insuree backend
 
 [→ My merged pull requests on GitHub](https://github.com/search?q=author%3ABlue-B-code+org%3Aopenimis+is%3Apr&type=pullrequests)
