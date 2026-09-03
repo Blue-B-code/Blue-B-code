@@ -11,9 +11,8 @@ I build and maintain real-world software — from REST APIs and database design 
 I'm an active open-source contributor to **[OpenIMIS](https://openimis.org)**, the open-source health-financing & social-protection platform:
 
 - **201 pull requests** submitted across the organization — **129 merged** — spanning **32 modules** of the platform
-- Created the **Ledger** frontend module from scratch (`openimis-fe-ledger_js`)
-- Maintained the **French translations** module (`openimis-fe-language_fr_js`)
-- Contributions cover the **whole stack**: React/JavaScript frontend modules, Python/Django + GraphQL backends, Android apps (Java), and the Docker distribution (`openimis-dist_dkr`)
+- **Front + back across the stack**: React/JavaScript frontend modules (core, claim, insuree, ledger, invoice, policy, contribution) and Python/Django GraphQL backends (be-invoice, be-core, be-insuree, be-contract, be-policy, be-individual, be-social_protection), plus Android apps (Java) and the Docker distribution (`openimis-dist_dkr`)
+- Created the **Ledger** frontend module from scratch; contributed a **polygamous-family** feature on the Insuree backend
 
 [→ My merged pull requests on GitHub](https://github.com/search?q=author%3ABlue-B-code+org%3Aopenimis+is%3Apr&type=pullrequests)
 
@@ -26,7 +25,7 @@ I currently work as a full-stack developer in Cameroon on proprietary products (
 | Product | Scope | Verified contributions (author: me) |
 | --- | --- | --- |
 | **MI Platform** — mobile invoicing & payment platform (Symfony + React/Vite/Inertia, Docker, Jenkins) | 2026-04 → now | **45 merge requests** (33 merged) · **16 commits** — Vite/Inertia migration (login, reset-password, register-prospect, layouts, DataGrid, Searcher), reusable query-service architecture, PHPStan/PHPCS security hardening, invoice business logic, E2E & unit tests. |
-| **FlowNote** — AI document platform (FastAPI, arq, S3, React) | 2026-08 → now | **4 merge requests** (2 merged) · **8 commits** — RAG backend migration: ingestion & reading pipelines on the `arq` queue, S3 handling, HMAC-signed callbacks, spec & task kit. |
+| **FlowNote** — multi-domain AI agent platform (in development) | 2026-08 → now | **4 merge requests** (2 merged) · **8 commits** — built the knowledge/retrieval layer powering the agents: document ingestion & reading pipelines, S3 handling, HMAC-signed callbacks. |
 
 > Both repositories are **private**, so these links require access — the MR lists are the proof: [MI merge requests](https://gitlab.com/maxime.ngoe/OrangeMoney/-/merge_requests?author_username=princesandjong777) · [FlowNote merge requests](https://gitlab.com/maxime.ngoe/flownote/-/merge_requests?author_username=princesandjong777)
 
